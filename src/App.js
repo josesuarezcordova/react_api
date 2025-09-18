@@ -8,7 +8,7 @@ const App = () => {
     };
     return (
         <div>
-            <h1>Hello, World!</h1>
+            <h1>Hello, React!</h1>
             <Button label="Click" onClick={handleClick}/>
             <ApiData />
         </div>
